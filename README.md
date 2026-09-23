@@ -28,9 +28,9 @@ Chênh lệch so với ngân sách chuẩn bị: budgetVariance = targetBudget -
 Bảng test case:
 
 |Trường hợp|Thay đổi số lượng khách|Thay đổi ngân sách|Ý nghĩa|
-|---|---|---|---|---|
+|---|---|---|---|
 |foodTotal|7400000|3000000|Tổng tiền đồ ăn|
 |totalPartyCost|11700000|7300000|Tổng chi phí toàn bộ sự kiện|
 |costPerGuest|316216,22|486666,67|Chi phí bình quân trên mỗi khách mời|
 |budgetVariance| 28300000|12700000|Chênh lệch so với ngân sách chuẩn bị|
-|---|---|---|---|---|
+|---|---|---|---|
